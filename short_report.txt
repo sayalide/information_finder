@@ -7,7 +7,7 @@ Technologies Employed:
 - Flask: The backend of the application was developed using Flask, a Python web framework.
 - BeautifulSoup: BeautifulSoup, a Python library, was utilized for web scraping and data extraction from HTML pages.
 - HTML, CSS: These standard web development technologies were employed to design the user interface.
-- Git/GitHub or GitLab: A version control system was used to manage and collaborate on the source code.
+- Git: A version control system was used to manage and collaborate on the source code.
 
 Overview of the Application:
 The application consists of three core components: index.html, results.html, and app.py. The index.html file provides users with a user-friendly interface where they can input their desired topic for searching. Once the search query is submitted, the app.py file leverages web scraping techniques, facilitated by BeautifulSoup, to retrieve relevant information from the internet. The results are then displayed to users in the results.html file, presenting them with search results pertinent to their topic. Furthermore, the application integrates with the Google search engine, enabling users to ask questions related to the topic.
